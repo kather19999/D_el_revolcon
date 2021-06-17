@@ -1,0 +1,192 @@
+.navbar {
+  background-color: rgb(24, 51, 71);
+}
+
+
+.logo {
+  width: 23%;
+  margin: 15px 0px 25px 150px;
+}
+
+
+.nav-link {
+  font-size: 18px;
+  font-family: 'PT Sans', sans-serif;
+  margin: 15px 90px 6px 0px;
+}
+
+
+#titulo {
+  font-size: 35px;
+  font-family: 'Berkshire Swash', cursive;
+  color: rgb(255, 255, 255); 
+  text-align: end; 
+  margin: 25px 100px 0px 0px;
+}
+
+.ondas {
+  position: absolute;
+  display: block;
+  height: 50px;
+  width: 100%;
+  background-repeat: repeat-x;
+  background-size: 150px 50px;
+  background-color: transparent;
+  background-position: top;
+}
+
+.ondas-arriba {
+  background-image: url(Imagenes/onda-arriba.png);
+  position: absolute;
+}
+
+.ondas-arriba2 {
+  background-image: url(Imagenes/onda-arriba2.png);
+  top: 0px; 
+}
+
+.ondas-abajo {
+  background-image: url(Imagenes/onda-abajo.png);
+  bottom: 0px;
+}
+
+#nosotros {
+  font-size: 40px;
+  font-family: 'Berkshire Swash', cursive;
+  color: white; 
+  text-align: center;
+}
+
+#portafolio h2 {
+  font-size: 40px;
+  font-family: 'Berkshire Swash', cursive;
+  color: rgb(0, 143, 148); 
+  text-align: center;  
+  padding-top: 5%;
+}
+
+#contactanos {
+  font-size: 40px;
+  font-family: 'Berkshire Swash', cursive;
+  color: #000000; 
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+
+section {
+  position: relative;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-family: 'KoHo', sans-serif;
+  font-size: 23px;
+  padding-top: 3%;
+  text-align: center;
+  margin: 10% 15% 0% 15%;
+}
+
+#lead {
+  color: #ffffff;
+  font-size: 28px; 
+  padding-top: 10%;
+}
+
+#empresa {  
+  width: 50%;
+  margin: 3% 10% 5% 22%; 
+}
+
+.container-catalogo {
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+.img-fluid {
+  width: 70%;
+  margin-left: 35px;
+  
+}
+
+.btn {
+  width: 40%;
+  margin-left: 90px;
+
+}
+
+#carouselExampleControls {
+  max-width: 60%;
+  margin: 0px 2px 50px 70px;
+  padding-bottom: 10%;
+  padding-top: 4%;
+}
+
+.container-form_contactenos {
+  margin: 0 100px 100px 0;
+  background-color: rgba(255, 255, 255, 0.87);
+}
+
+.form-floating {
+  margin-left: 10%; 
+}
+
+.mapa {
+  width: 100%;
+  margin-top: 5%;
+}
+
+.btn2 {
+  background-color: #0b7985;
+  color: white;
+  border-radius: 15%;
+  font-size: 21px;
+  font-family: 'PT Sans', sans-serif;
+  border: rgb(10, 134, 141) solid 5px;
+  margin-top: 2%;
+  padding: 0.3%;
+}
+
+.container_sobre_nosotros {
+  background-color:rgb(39, 62, 83);
+  padding-top: 65px;
+  padding-bottom: 85PX;
+}
+
+.container-detalles {
+  background-color:rgb(39, 62, 83);
+  padding-top: 10%;
+}
+
+
+
+#sobre_chocolate {
+  width: 95%;
+  margin: 5px 0px 5px 5px;
+  border: orange 1px solid;
+  border-radius: 50%;
+}
+
+
+
+footer {
+  background-color: rgba(12, 12, 12, 0.89);
+  padding: 5%;
+}
+
+footer h4 {
+  color: white;
+  font-size: 18px;
+}
+.contac {
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+
+.foot_nosotros {
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+
